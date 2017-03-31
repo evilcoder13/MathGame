@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SILVERF</Machine>
+    <WindowsUser>xatm</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6dd4a75a-1819-4271-8c73-078cd68f19d2</PackageIdentityName>
+    <PackageIdentityPublisher>CN=xatm</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\xatm\documents\visual studio 2015\Projects\MathGame\MathGame\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>EF51F2D17A26562ED6C6679A3A4E76EBB3DD712E7786909E0EB9B5B1294EDB90</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6dd4a75a-1819-4271-8c73-078cd68f19d2_1.0.0.0_neutral__m6mdrnx6repce</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6dd4a75a-1819-4271-8c73-078cd68f19d2_m6mdrnx6repce!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6dd4a75a-1819-4271-8c73-078cd68f19d2</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=xatm</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\xatm\documents\visual studio 2015\Projects\MathGame\MathGame\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-31T03:49:09.870</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\xatm\documents\visual studio 2015\Projects\MathGame\MathGame\bin\Debug\MathGame.exe">
+      <PackagePath>MathGame.exe</PackagePath>
+      <Modified>2017-03-31T03:59:52.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xatm\documents\visual studio 2015\Projects\MathGame\packages\Jace.0.8.7\lib\windows8\Jace.dll">
+      <PackagePath>Jace.dll</PackagePath>
+      <Modified>2014-11-01T02:30:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xatm\documents\visual studio 2015\Projects\MathGame\MathGame\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xatm\documents\visual studio 2015\Projects\MathGame\MathGame\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xatm\documents\visual studio 2015\Projects\MathGame\MathGame\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xatm\documents\visual studio 2015\Projects\MathGame\MathGame\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T15:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xatm\documents\visual studio 2015\Projects\MathGame\MathGame\bin\Debug\MathGame.xr.xml">
+      <PackagePath>MathGame.xr.xml</PackagePath>
+      <Modified>2017-03-31T03:49:09.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xatm\documents\visual studio 2015\Projects\MathGame\MathGame\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-03-31T03:32:47.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xatm\documents\visual studio 2015\Projects\MathGame\MathGame\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-03-31T03:49:54.587</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xatm\documents\visual studio 2015\Projects\MathGame\MathGame\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-31T03:49:09.797</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

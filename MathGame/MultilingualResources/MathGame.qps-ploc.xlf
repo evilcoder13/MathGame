@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="qps-ploc" original="MATHGAME/TRANSLATIONS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="MATHGAME/TRANSLATIONS/EN-US/RESOURCES.RESW" datatype="resx">
+        <trans-unit id="uidExit.Label" translate="yes" xml:space="preserve">
+          <source>Exit</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">[D96C7][!!_Ęхìт_!!]</target>
+        </trans-unit>
+        <trans-unit id="uidFalse.Label" translate="yes" xml:space="preserve">
+          <source>False</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">[7E5FF][!!_₣áļśé_!!]</target>
+        </trans-unit>
+        <trans-unit id="uidFormula.Header" translate="yes" xml:space="preserve">
+          <source>Formula</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">[70ACA][!!_₣õŕmùľâ_!!]</target>
+        </trans-unit>
+        <trans-unit id="uidFormula.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Click start to begin game</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">[F85A1][!!_Ćĺíċķ ŝтâѓť тõ Бèğìй ġâmê_!!]</target>
+        </trans-unit>
+        <trans-unit id="uidPoint.Header" translate="yes" xml:space="preserve">
+          <source>Point</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">[AA95D][!!_Ρõíиτ_!!]</target>
+        </trans-unit>
+        <trans-unit id="uidStart.Label" translate="yes" xml:space="preserve">
+          <source>Start</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">[76FEF][!!_Šťãŕť_!!]</target>
+        </trans-unit>
+        <trans-unit id="uidTime.Header" translate="yes" xml:space="preserve">
+          <source>Time</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">[65854][!!_Тîмê_!!]</target>
+        </trans-unit>
+        <trans-unit id="uidTrue.Label" translate="yes" xml:space="preserve">
+          <source>True</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">[A9ADE][!!_Τřûê_!!]</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

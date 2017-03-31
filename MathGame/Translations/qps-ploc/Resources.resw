@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="uidExit.Label" xml:space="preserve">
+    <value>[D96C7][!!_Ęхìт_!!]</value>
+  </data>
+  <data name="uidFalse.Label" xml:space="preserve">
+    <value>[7E5FF][!!_₣áļśé_!!]</value>
+  </data>
+  <data name="uidFormula.Header" xml:space="preserve">
+    <value>[70ACA][!!_₣õŕmùľâ_!!]</value>
+  </data>
+  <data name="uidFormula.PlaceholderText" xml:space="preserve">
+    <value>[F85A1][!!_Ćĺíċķ ŝтâѓť тõ Бèğìй ġâmê_!!]</value>
+  </data>
+  <data name="uidPoint.Header" xml:space="preserve">
+    <value>[AA95D][!!_Ρõíиτ_!!]</value>
+  </data>
+  <data name="uidStart.Label" xml:space="preserve">
+    <value>[76FEF][!!_Šťãŕť_!!]</value>
+  </data>
+  <data name="uidTime.Header" xml:space="preserve">
+    <value>[65854][!!_Тîмê_!!]</value>
+  </data>
+  <data name="uidTrue.Label" xml:space="preserve">
+    <value>[A9ADE][!!_Τřûê_!!]</value>
+  </data>
+</root>
