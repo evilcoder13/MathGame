@@ -10,7 +10,7 @@ namespace MathGame
     {
         public LanguageList()
         {
-            //Initialize all language supported!
+            //Initialize all language supported! 123
             this.Add(new Language() { Code = "en-US", Name = "English" });
             this.Add(new Language() { Code = "vi-VN", Name = "Vietnamese" });
             this.Add(new Language() { Code = "ja-JP", Name = "Japanese" });

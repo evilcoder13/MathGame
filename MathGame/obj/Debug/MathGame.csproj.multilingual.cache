@@ -3,63 +3,63 @@
   <CacheFile>
     <FileName>Translations\en-US\Resources.resw</FileName>
     <Checksum>78198236167111662360801905220886116255213</Checksum>
-    <ModifiedTime>2017-03-31T10:21:06.7540782</ModifiedTime>
+    <ModifiedTime>2017-05-31T15:54:10.2897516</ModifiedTime>
     <CacheFileType>NeutralResource</CacheFileType>
     <WarningMessage />
   </CacheFile>
   <CacheFile>
     <FileName>MultilingualResources\MathGame.fr-FR.xlf</FileName>
     <Checksum>821510221324075151971805052154917261158</Checksum>
-    <ModifiedTime>2017-03-31T10:22:19.8721808+07:00</ModifiedTime>
+    <ModifiedTime>2017-05-31T15:54:10.2637361+07:00</ModifiedTime>
     <CacheFileType>XliffResource</CacheFileType>
     <WarningMessage />
   </CacheFile>
   <CacheFile>
     <FileName>Translations\fr-FR\Resources.resw</FileName>
     <Checksum>9579165772122227324924177523336129127129</Checksum>
-    <ModifiedTime>2017-03-31T10:22:39.7221759+07:00</ModifiedTime>
+    <ModifiedTime>2017-05-31T15:54:10.2937535+07:00</ModifiedTime>
     <CacheFileType>LanguageResource</CacheFileType>
     <WarningMessage />
   </CacheFile>
   <CacheFile>
     <FileName>MultilingualResources\MathGame.ja-JP.xlf</FileName>
     <Checksum>2061397124415423314822113675764121162147115</Checksum>
-    <ModifiedTime>2017-03-31T10:22:18.7814414+07:00</ModifiedTime>
+    <ModifiedTime>2017-05-31T15:54:10.2687374+07:00</ModifiedTime>
     <CacheFileType>XliffResource</CacheFileType>
     <WarningMessage />
   </CacheFile>
   <CacheFile>
     <FileName>Translations\ja-JP\Resources.resw</FileName>
     <Checksum>12525359190117211771504972233593422947251</Checksum>
-    <ModifiedTime>2017-03-31T10:22:39.7431798+07:00</ModifiedTime>
+    <ModifiedTime>2017-05-31T15:54:10.2987562+07:00</ModifiedTime>
     <CacheFileType>LanguageResource</CacheFileType>
     <WarningMessage />
   </CacheFile>
   <CacheFile>
     <FileName>MultilingualResources\MathGame.qps-ploc.xlf</FileName>
     <Checksum>13514515412338841141352241091182551529955208</Checksum>
-    <ModifiedTime>2017-03-31T10:22:09.4852768+07:00</ModifiedTime>
+    <ModifiedTime>2017-05-31T15:54:10.2737428+07:00</ModifiedTime>
     <CacheFileType>XliffResource</CacheFileType>
     <WarningMessage />
   </CacheFile>
   <CacheFile>
     <FileName>Translations\qps-ploc\Resources.resw</FileName>
     <Checksum>7371848666562051114038343619610815148</Checksum>
-    <ModifiedTime>2017-03-31T10:22:39.756181+07:00</ModifiedTime>
+    <ModifiedTime>2017-05-31T15:54:10.3007549+07:00</ModifiedTime>
     <CacheFileType>LanguageResource</CacheFileType>
     <WarningMessage />
   </CacheFile>
   <CacheFile>
     <FileName>MultilingualResources\MathGame.vi-VN.xlf</FileName>
     <Checksum>1154172188617825169371461079618916871184</Checksum>
-    <ModifiedTime>2017-03-31T10:36:35.9468777+07:00</ModifiedTime>
+    <ModifiedTime>2017-05-31T15:54:10.2777436+07:00</ModifiedTime>
     <CacheFileType>XliffResource</CacheFileType>
     <WarningMessage />
   </CacheFile>
   <CacheFile>
     <FileName>Translations\vi-VN\Resources.resw</FileName>
     <Checksum>6087120384109451017617966122242172550</Checksum>
-    <ModifiedTime>2017-03-31T10:36:40.2892409+07:00</ModifiedTime>
+    <ModifiedTime>2017-05-31T15:54:10.3057633+07:00</ModifiedTime>
     <CacheFileType>LanguageResource</CacheFileType>
     <WarningMessage />
   </CacheFile>
